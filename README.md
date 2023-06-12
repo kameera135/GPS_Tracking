@@ -1,37 +1,37 @@
 
 # GPS Tracking
 
-This is a simple android mobile application to track the location. It gives the location on the google map that your mobile phone situated in. To find the location it use GPS signal or WIFI / Tower signals. You can change the signal sourse as accourding to the facilities and performance of the android phone. 
+This is a simple Android mobile application to track the location. It gives the location of your mobile phone's location on the Google map. It uses GPS or WIFI / Tower signals to find the location. You can change the signal source according to the facilities and performance of the Android phone. 
 
 
 ## Appendix
 
-Additionally you have to get the google API key for thss application to use the google map facility. For get your API key follow the following path. 
+Additionally, you have to get the Google API key for the application to use the Google map facility. To get your API key follow the following path. 
 
 - Go to google cloud platform -> APIs & Services ->        Credentials-> Create Credentials
 
-Then you can get the API key and make restrictions for relevent APIs and make it authenticate. Then copy the API key and place it in the 'android:value' place in AndroidManifest.xml file. 
+Then you can get the API key and make restrictions for relevant APIs and make it authenticate. Then copy the API key and place it in the 'android:value' place in the AndroidManifest.xml file. 
 
 
 ## Features
 
-- Show longtitiude and latitude valus of the location
-- Can change way  way points of the location
+- Show the longitude and latitude values of the location
+- Can change waypoints of the location
 - Change the sensor (GPS or WIFI sensor) to identification
 - Simple UI design. 
 
 
 ## Installation
 
-Install following features to run
+Install the following features to run
 
-- lates Jave version with JDK
+- latest Jave version with JDK
 - IDE (Android Studio).
     
 ## Future Development Ideas
 
-- Add speedometer calculation methods to claculate speed
-- Grab vehicle data (Ex: fual usage, speed etc) using bluetooth connections. 
+- Add speedometer calculation methods to calculate speed
+- Grab vehicle data (Ex: fuel usage, speed, etc) using Bluetooth connections. 
 - Better UI / UX design with login and register pages. 
 
 
